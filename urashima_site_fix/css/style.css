@@ -1,0 +1,33 @@
+
+body {
+  background: linear-gradient(to bottom, #00bcd4, #006064);
+  background-attachment: fixed;
+  color: #f3f6f7;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2em;
+  line-height: 1.6;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ocean_surface.jpg/800px-Ocean_surface.jpg');
+  background-size: cover;
+}
+main {
+  background: rgba(0, 51, 102, 0.7);
+  padding: 2em;
+  border-radius: 1em;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+h1 {
+  font-size: 1.8em;
+  color: #b3e5fc;
+}
+a {
+  display: inline-block;
+  margin: 0.5em 0;
+  padding: 0.5em 1em;
+  background: #4dd0e1;
+  color: #004d40;
+  text-decoration: none;
+  border-radius: 0.5em;
+}
+a:hover {
+  background: #00acc1;
+}

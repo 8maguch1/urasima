@@ -1,0 +1,29 @@
+
+body {
+  background: linear-gradient(to bottom, #1c1c1c, #000000);
+  color: #f8f8f8;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2em;
+  line-height: 1.6;
+}
+main {
+  background: rgba(50, 50, 50, 0.8);
+  padding: 2em;
+  border-radius: 1em;
+}
+h1 {
+  font-size: 1.8em;
+  color: #e57373;
+}
+a {
+  display: inline-block;
+  margin: 0.5em 0;
+  padding: 0.5em 1em;
+  background: #757575;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 0.5em;
+}
+a:hover {
+  background: #b71c1c;
+}
